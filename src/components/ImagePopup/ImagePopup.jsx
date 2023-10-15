@@ -1,5 +1,5 @@
 import React from 'react';
-import './ImagePopup.css'
+import './Imagepopup.css'
 
 const ImagePopup = ({ image, onClose }) => (
     <div className="image-popup">
